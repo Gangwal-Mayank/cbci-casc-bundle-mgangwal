@@ -1,5 +1,5 @@
 id: "bundle-global"
-version: "5"
+version: "6"
 apiVersion: "2"
 availabilityPattern: '.*'
 description: "CasC parent bundle with common configuration elements"
