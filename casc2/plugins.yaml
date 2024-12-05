@@ -1,0 +1,24 @@
+plugins:
+- id: ace-editor
+- id: active-directory
+- id: ansible
+- id: ant
+- id: antisamy-markup-formatter
+- id: apache-httpcomponents-client-4-api
+- id: apache-httpcomponents-client-5-api
+- id: artifactory
+- id: asm-api
+- id: async-http-client
+- id: audit-trail
+- id: authentication-tokens
+- id: aws-credentials
+- id: aws-global-configuration
+- id: aws-java-sdk
+- id: aws-java-sdk-api-gateway
+- id: aws-java-sdk-autoscaling
+- id: aws-java-sdk-cloudformation
+- id: aws-java-sdk-cloudfront
+- id: aws-java-sdk-codebuild
+- id: aws-java-sdk-codedeploy
+- id: aws-java-sdk-ec2
+- id: aws-java-sdk-ecr
